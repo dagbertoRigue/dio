@@ -15,9 +15,7 @@
 | Título   | Prompt 2: Gere mais 5 opções.|
 | Capa     | Prompt 3: agora gere a capa do ebook com o título: "Hackeando a Mente da IA" e o subtítulo "Prompts eficientes para noobs" |
 | Capa     | Gere uma imagem para a capa do meu ebook. Título: hackeando a mente da ia Subtítulo: guia para desenvolver prompts eficazes |
-| Conteúdo |  Prompt 5:
-Faça um texto para um ebook, com foco em geração de prompts, listando as principais técnicas.
-{Regras}
+| Conteúdo |  Prompt 5: Faça um texto para um ebook, com foco em geração de prompts, listando as principais técnicas. {Regras}
 - explique sempre de uma maneira simples
 - deixe o texto enxuto
 - sempre traga exemplos de prompts para cada tópico abordado
